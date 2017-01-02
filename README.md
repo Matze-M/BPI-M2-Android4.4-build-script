@@ -30,7 +30,7 @@ Download:
 =========
 Download Sourcecode from the following URL:
 
-`ftp://pub:bananapi@dev.banana-pi.org.cn/Source_Code/bpi2/BPI-M2-Android4.4.tar.gz`
+`http://dev.banana-pi.org.cn/Source_Code/BPI-M2/`
 
 OR 
 
